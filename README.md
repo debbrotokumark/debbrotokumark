@@ -27,7 +27,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debbrotokumark&show_icons=true&locale=en" alt="debbrotokumark" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=debbrotokumark&" alt="debbrotokumark" /></p>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=debbrotokumark&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Kevin's github stats" /></a> 
 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debbrotokumark&theme=github_dark&layout=compact&hide_border=true" /></a> |
 
 
