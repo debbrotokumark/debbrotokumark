@@ -28,4 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debbrotokumark&show_icons=true&locale=en" alt="debbrotokumark" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debbrotokumark&" alt="debbrotokumark" /></p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debbrotokumark&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=debbrotokumark&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
