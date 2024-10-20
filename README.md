@@ -28,4 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debbrotokumark&show_icons=true&locale=en" alt="debbrotokumark" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debbrotokumark&" alt="debbrotokumark" /></p>
-<p><img align="center" src="https://github.com/anuraghazra/github-readme-stats" alt="debbrotokumark" /></p>
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=default)
